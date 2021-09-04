@@ -22,7 +22,9 @@ Finally, calculating this data allowed me to create a line chart to display the 
 
 ### Challenges and Difficulties Encountered
 
-A challenge I encountered while coding the COUNTIFS() function in the Outcomes Based on Goals analysis was to ensure that I included "=" to my function. This guaranteed that data within both my upper and lower limits were included in my analysis and displayed correctly within my chart. 
+A challenge I encountered while coding the COUNTIFS() function in the Outcomes Based on Goals analysis was to ensure that I included "=" in my code. This guaranteed that data within both my upper and lower limits were included in my analysis and displayed correctly within my chart. 
+
+![This is an image](https://github.com/ddigioac/kickstarter-analysis/blob/47f50589c11386c0cc489c01723a98172c575499/Inclusive_Function.png)
 
 ## Results
 
