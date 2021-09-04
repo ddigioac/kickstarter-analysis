@@ -10,10 +10,11 @@ In this analysis I will examine theatre campaign outcomes based on their launch 
 
 ### Analysis of Outcomes Based on Launch Date
 
-To begin my analysis of Outcomes Based on Launch Date, I had to first extract the "Years" from the "Date Created Conversion" column in the dataset. I then proceed to create a pivot table based on "Parent Category" and "Years". 
+To begin my analysis of Outcomes Based on Launch Date, I had to first extract the "Years" from the "Date Created Conversion" column in the dataset. I then proceed to create a pivot table based on "Parent Category" and "Years". Next I had to filter the columns to show only "successful", "failed" and "canceled", along with filtering "Parent Category" to show only the data for "theatre". 
 
+![This is an image](https://github.com/ddigioac/kickstarter-analysis/blob/11e77520496ffb821609a69bec4ab9e03d8f5bb1/Pivot_Table.png)
 
-Next I had to filter the columns to show only "successful", "failed" and "canceled", along with filtering "Parent Category" to show only the data for "theatre". Using the data in the pivot table I was then able to create a line chart to display the correlation between theatre outcomes and the month it launched.
+Using the data in the pivot table I was then able to create a line chart to display the correlation between theatre outcomes and the month it launched.
 
 ### Analysis of Outcomes Based on Goals
 
