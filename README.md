@@ -16,6 +16,8 @@ To begin my analysis of Outcomes Based on Launch Date, I had to first extract th
 
 I started by creating a new sheet to summarize my findings based on Outcomes and Goals. The goal amounts were then grouped into categories ranging from $0-$50,000 with $5,000 increments. I used the COUNTIFS() function to populate the "Number Successful", "Number Failed" and 'Number Canceled" columns. I also included "plays" as the criteria for the "Subcategory" column. 
 
+![This is an image](https://github.com/ddigioac/kickstarter-analysis/blob/3cbabdcc9dddd76904549e64e249523159a2b370/Increments.png)
+
 After using the SUM() function to populate the "Total Projects" column, I was able to calculate the percentage of successful, failed and canceled projects for each row. 
 
 Finally, calculating this data allowed me to create a line chart to display the goal-amount ranges and the percentage of successful, failed or canceled projects.
