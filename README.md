@@ -10,7 +10,10 @@ In this analysis I will examine theatre campaign outcomes based on their launch 
 
 ### Analysis of Outcomes Based on Launch Date
 
-To begin my analysis of Outcomes Based on Launch Date, I had to first extract the "Years" from the "Date Created Conversion" column in the dataset. I then proceed to create a pivot table based on "Parent Category" and "Years". Next I had to filter the columns to show only "successful", "failed" and "canceled", along with filtering "Parent Category" to show only the data for "theatre". Using the data in the pivot table I was then able to create a line chart to display the correlation between theatre outcomes and the month it launched.
+To begin my analysis of Outcomes Based on Launch Date, I had to first extract the "Years" from the "Date Created Conversion" column in the dataset. I then proceed to create a pivot table based on "Parent Category" and "Years". 
+
+
+Next I had to filter the columns to show only "successful", "failed" and "canceled", along with filtering "Parent Category" to show only the data for "theatre". Using the data in the pivot table I was then able to create a line chart to display the correlation between theatre outcomes and the month it launched.
 
 ### Analysis of Outcomes Based on Goals
 
@@ -19,6 +22,8 @@ I started by creating a new sheet to summarize my findings based on Outcomes and
 ![This is an image](https://github.com/ddigioac/kickstarter-analysis/blob/3cbabdcc9dddd76904549e64e249523159a2b370/Increments.png)
 
 After using the SUM() function to populate the "Total Projects" column, I was able to calculate the percentage of successful, failed and canceled projects for each row. 
+
+![This is an image](https://github.com/ddigioac/kickstarter-analysis/blob/d6978b84b30d0c712b7eb08ecc171bdf09f25ddf/Percentage.png)
 
 Finally, calculating this data allowed me to create a line chart to display the goal-amount ranges and the percentage of successful, failed or canceled projects.
 
